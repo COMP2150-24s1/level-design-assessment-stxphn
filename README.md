@@ -42,7 +42,7 @@ You should restructure the headings below to match the order they appear in your
 ### 2.2. Acid
 (DocImages/Acid.png)
 ### 2.3. MovingPlatforms
-(DocImages/Moving Platform.png)
+![movingplatform](DocImages/Moving_Platform.png)
 ### 2.4. Health Pickups
 
 ### 2.5. Passthrough Platform
