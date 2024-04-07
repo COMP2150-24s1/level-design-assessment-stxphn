@@ -38,6 +38,7 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Checkpoints
+![Checkpoint!](DocImages/exampleimage.png)
 (DocImages/Checkpoint.png)
 ### 2.2. Acid
 (DocImages/Acid.png)
