@@ -4,7 +4,6 @@
 ### Student number: [47733284] 
 
 
-
 ## 1. Player Experience (~700 words)
 
 ### 1.1. Discovery
@@ -74,10 +73,6 @@ Iterative design was highly practical and advantageous throughout the design pro
 
 As shown in my images provided of grey-boxing, the width and distance between ground was a factor that iterative design really helped me nail in my level. For example in certain areas I extended platforms by one pixel just to allow more space for the player, furthermore, moving platforms were also added for sections that might've been a bit too far apart. It was however through grey-boxing that I was able to make these small changes that would have significantly impacted the player's experience in my level. Thus showing that iterative design helped improve my level through many small changes that could have only been done through actually testing the game.
 
-
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
-
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
 ## Generative AI Use Acknowledgement
 
