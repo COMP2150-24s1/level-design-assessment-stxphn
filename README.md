@@ -44,9 +44,9 @@ You should restructure the headings below to match the order they appear in your
 ### 2.3. MovingPlatforms
 ![movingplatform](DocImages/Moving%20Platform.png)
 ### 2.4. Health Pickups
-![Healthpickup](DocImages/Health20%pickup.png)
+![Healthpickup](DocImages/Health%20pickup.png)
 ### 2.5. Passthrough Platform
-![PassthroughPlatform](DocImages/Passthrough20%Platform.png)
+![PassthroughPlatform](DocImages/Passthrough%20Platform.png)
 ### 2.6. Weapon Pickup (Staff)
 ![staff](DocImages/Staff.png)
 ### 2.7. Chompers
