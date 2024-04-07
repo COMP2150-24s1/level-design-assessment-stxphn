@@ -4,16 +4,6 @@
 ### Student number: [47733284] 
 
 
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
-
 ## 1. Player Experience (~700 words)
 
 ### 1.1. Discovery
@@ -31,35 +21,40 @@ My level facilitates autonomy through the different ways that the player could s
 
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Checkpoints
-![Checkpoint!](DocImages/exampleimage.png)
-(DocImages/Checkpoint.png)
+![Checkpoint](DocImages/Checkpoint.png)
+I chose to introduce the checkpoints first as I felt that it would be important for the player to understand what would happen if they were to die or fall into acid and for the player to actually know off the bat if the game was going to have checkpoints or not. Furthermore I wanted the player to be familiar with how the checkpoint mechanics work e.g. how to activate a checkpoint.
 ### 2.2. Acid
-(DocImages/Acid.png)
+![acid](DocImages/Acid.png)
+Next I chose to introduce Acid right after the checkpoint as it would show the player the interaction between the acid and the checkpoint (player falls into acid, player respawns at the checkpoint). It also introduces the player to the hazards in the level and shows the player the consequence of touching said hazard (1 life point)
 ### 2.3. MovingPlatforms
-(DocImages/Moving Platform.png)
+![movingplatform](DocImages/Moving%20Platform.png)
+After I chose to incorporate moving platforms as the start of my level showcased the different jump heights so I wanted to further advance the jump mechanic to show that players would be expected to jump onto moving platforms as well as the normal still platforms. This also let me introduce the idea of a moving platform in order to cover gaps that were too far apart.
 ### 2.4. Health Pickups
-
+![Healthpickup](DocImages/Health%20pickup.png)
+Next I introduced the health pickup because it was right after the acid section which meant that once players had gotten past it they would be able to heal once in case they took any damage from the acid. This also helped show the player how much they'd earn from walking over a health pickup.
 ### 2.5. Passthrough Platform
-
+![PassthroughPlatform](DocImages/Passthrough%20Platform.png)
+After that I chose to introduce the Passthrough Platforms as I felt it wasn't as core of a mechanic as the first 4 but rather an extension towards the jump action. At this point of the level, the player should've been completely familiar with the jump mechanic, this added extension would help players understand the different types of platforms.
 ### 2.6. Weapon Pickup (Staff)
-
+![staff](DocImages/Staff.png)
+Then I chose to introduce the staff after all the other mechanics as I thought it'd be best for the player to familiarise themselves with moment first before moving onto the attack action.
 ### 2.7. Chompers
-
+![Chompers](DocImages/Chompers.png)
+I chose to add chompers after the staff to allow the player to practice their newly acquired weapon, this also let players understand how strong the chompers were and how to modify their playstyle to counter the chompers.
 ### 2.8. Spitters
-
+![Spitters](DocImages/Spitters.png)
+I chose to add spitters after chompers as I believed range would be more difficult to deal with as opposed to melee, this would help teach players proper distancing and to show a new type of enemy that players would have to be wary of.
 ### 2.9. Weapon Pickup (Gun)
-
+![gun](DocImages/Gun.png)
+After that I added the gun to give players a counter towards the ranged enemies and as I believed the gun was easier to use and less penalising, I wanted the player to first experience the staff before giving them the gun.
 ### 2.10. Spikes
-
+![Spikes](DocImages/Spikes.png)
+After the gun I added spikes to finally show the last hazard that was in the level and also to introduce the player to another hazard so that they wouldn't get bored of being introduced to only enemies. Hence why I chose to introduce the spikes at the end rather than during the initial movement mechanics.
 ### 2.11. Keys
-
+![key](DocImages/Key.png)
+Lastly the key was introduced to show that the key is a reward, I wanted the player to understand that keys would be given throughout the level as rewards. So in this instance it was a reward for completing the first section/tutorial of the game.
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
@@ -78,10 +73,6 @@ Iterative design was highly practical and advantageous throughout the design pro
 
 As shown in my images provided of grey-boxing, the width and distance between ground was a factor that iterative design really helped me nail in my level. For example in certain areas I extended platforms by one pixel just to allow more space for the player, furthermore, moving platforms were also added for sections that might've been a bit too far apart. It was however through grey-boxing that I was able to make these small changes that would have significantly impacted the player's experience in my level. Thus showing that iterative design helped improve my level through many small changes that could have only been done through actually testing the game.
 
-
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
-
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
 ## Generative AI Use Acknowledgement
 
