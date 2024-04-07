@@ -56,21 +56,23 @@ After the gun I added spikes to finally show the last hazard that was in the lev
 ![key](DocImages/Key.png)
 Lastly the key was introduced to show that the key is a reward, I wanted the player to understand that keys would be given throughout the level as rewards. So in this instance it was a reward for completing the first section/tutorial of the game.
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
+![MoleculeDiagram](DocImages/MoleculeDiagram.png)
 
 ### 3.2. Level Map – Section 1
-
+![Section1](DocImages/Section1.png)
 ### 3.3.	Level Map – Section 2
-
+![Section2](DocImages/Section2.png)
 ### 3.4.	Level Map – Section 3
-
+![Section3](DocImages/Section3.png)
 ## 4. Iterative Design (~400 words)
 Iterative design was highly practical and advantageous throughout the design process for my level. Through the use of iterative design in particular grey-boxing I was firstly able to create a layout that I desired through constantly testing the spacing between areas etc. This meant that I was able to easily change experiences in my level in order to target more of those player experience factors. Furthermore iterative design helped me pick ideal places for pickups and enemies and it allowed me to decide whether checkpoints were needed in certain areas. As such, it allowed me to control the challenge of the level through the appropriate placement of these structures to ensure that the level wasn't too difficult or too easy. For example if a section was tricky the process of iterative design helped me determine whether a checkpoint would have been appropriate for that section. In particular, during the testing I was able to discover certain ledges that might've been too high up thus leading to a soft-lock if the player were to fall into the pit. Another example in which iterative design helped was during my boss fight section. Through constantly playing this section it allowed me to determine a suitable range to set my enemies attacks to and a suitable health pool for the enemies, thus allowing me to create a more engaging bossfight that stimulates the player's reactions and physical skill. However I believe an aspect that my level could improve on is the exploration of the level. Through iterative design I noticed that although my level did have sections to allow the player to explore and find things, it would have been a lot more enjoyable if my puzzles required more exploration. Iterative design also allowed me to see that health pickups could be placed in more unique locations rather than just at the end of a section which would have further improved the exploration aspect of my level. 
 
+![Greybox1](DocImages/Greybox1.png)
+![Greybox2](DocImages/Greybox2.png)
+![Greybox3](DocImages/Greybox3.png)
 As shown in my images provided of grey-boxing, the width and distance between ground was a factor that iterative design really helped me nail in my level. For example in certain areas I extended platforms by one pixel just to allow more space for the player, furthermore, moving platforms were also added for sections that might've been a bit too far apart. It was however through grey-boxing that I was able to make these small changes that would have significantly impacted the player's experience in my level. Thus showing that iterative design helped improve my level through many small changes that could have only been done through actually testing the game.
 
 
